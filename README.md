@@ -1,4 +1,2 @@
 # Machine_Learning
-KBTU - FALL 2018/n
-Machine Learning course/n
-Tutor - Alexander Pak
+KBTU FALL 2018 --- Machine Learning course --- Alexander Pak
